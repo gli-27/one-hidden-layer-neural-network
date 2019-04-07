@@ -1,8 +1,6 @@
 Backpropagation
 ---------------- 
-Guo Li 
-NetID: gli27 
-CSC 446
+Guo Li  
 Jan 23 2019 
 ----------------
 
