@@ -6,6 +6,10 @@ CSC 446
 Jan 23 2019 
 ----------------
 
+Usage
+-----
+skeleton_backprop.py is the main implementation file. And you can use the file smoke_test.py to test the result of implementation.
+
 
 Briefly Description
 -------------------
