@@ -38,3 +38,24 @@ Furthermore, if we decrease the learning rate again to 0.02. You can find out th
 
 To choose a relatively good hyperparameters, I personally recommend to chose hidden_dim between 10 to 20, and learning rate between 0.1 to 0.2, iteration more than 10 but less than 30 will give you a relatively good result accuracy. Noticed that, you can chose the learning rate you want but relatively small and hidden_dim you want relatively large but not too large and set the iteration times relatively large. Then choosing the mode like --devmode 1, then we will use dev data set to help you to get the best result and once it's converge, it will stop early.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
